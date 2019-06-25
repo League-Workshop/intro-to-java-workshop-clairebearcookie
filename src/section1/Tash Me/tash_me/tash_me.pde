@@ -6,7 +6,7 @@ void setup() {
   size(800, 600);
 
   mermaid.resize(width, height);
-  mustache=loadImage("mustache3.jpg");
+  mustache=loadImage("mustache4.png");
 }
 void draw() {
   background(mermaid);  
